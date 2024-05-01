@@ -1,3 +1,5 @@
+Please checkout on the master branch, Thanks!
+
 # Frontend Qualification Exercises
 
 This repository contains the qualification exercises given to frontend engineers interested in joining the **ScaleForge** team. These exercises are designed to evaluate the coding and problem-solving abilities of the candidate. The candidate is given a maximum of 3 days to complete the exercises. The candidate must then submit the completed exercises by sending an email to our HR team.

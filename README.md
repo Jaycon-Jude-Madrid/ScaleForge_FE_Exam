@@ -1,4 +1,4 @@
-Please checkout on the master branch, Thanks!
+# Please checkout on the master branch, Thanks!
 
 # Frontend Qualification Exercises
 
